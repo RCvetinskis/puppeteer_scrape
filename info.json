@@ -1,0 +1,30 @@
+{
+  "title": "Europe Football Teams By Rank",
+  "url": "EUtopFootballTeams",
+  "language": "English",
+  "price": "3.00",
+  "description": "Europe Football Teams By Rank",
+  "tags": [
+    "Europe Football Teams By Rank",
+    "Eu Top Teams football",
+    "Eu Top Teams soccer"
+  ],
+  "dataCreated": "2022.11.22",
+  "availableFormats": [
+    "JSON",
+    "CSV",
+    "XLSX"
+  ],
+  "quantity": 1226,
+  "sizeKB": [
+    {
+      "JSON": 268
+    },
+    {
+      "CSV": 165
+    },
+    {
+      "Xlsx": 420
+    }
+  ]
+}
